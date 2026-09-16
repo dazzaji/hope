@@ -11,9 +11,9 @@ Treat "original editorial judgment" as a claim to test, not an established fact.
 
 Use the **Descrybe Legal Engine** for case identification, primary-opinion passages, quotation verification, and visible-treatment checks. Memory and generated summaries are leads, not proof. Use focused retrieval; do not save bulk tool responses or any full opinions except the three required for the case packet below.
 
-Read `descrybe-two-step-exercise/MEMO.md` when working from the repository root; it is beside this prompt file. If its location is ambiguous or inaccessible, ask me for its location or text and stop. **Do not read the instructor's answer key or earlier exercise answers.**
+Read `projects/legal_research/MEMO.md` when working from the repository root; it is beside this prompt file. If its location is ambiguous or inaccessible, ask me for its location or text and stop. **Do not read the instructor's answer key or earlier exercise answers.**
 
-Preserve `MEMO.md` and `PROMPT.md`. Create a fresh run folder inside `descrybe-two-step-exercise/work/` and save all outputs there. Do not overwrite earlier work.
+Preserve `projects/legal_research/MEMO.md` and `projects/legal_research/PROMPT.md`. Create a fresh run folder inside `projects/legal_research/work/` and save all outputs there. Do not overwrite earlier work.
 
 Assume a **federal district court in New York**. Do not invent directory features or copying facts. Identify missing facts and reason conditionally. If Descrybe is unavailable, report that limit rather than substitute unsupported conclusions.
 

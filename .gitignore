@@ -203,6 +203,9 @@ cython_debug/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
+# Participant-generated HOPE exercise outputs
+projects/legal_research/work/
+
 # Ruff stuff:
 .ruff_cache/
 
