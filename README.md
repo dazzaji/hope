@@ -5,6 +5,8 @@ Hands-On Projects and Experimentation.
 
 ## Legal research exercise
 
+First ensure you have a Descrybe account.  Then ensure you (or your agent) have [installed and tested the Descrybe integrations](https://computationallaw.org/materials/descrybe26.html) for Claude Code, Codex, or your preferred agent.
+
 The current Descrybe exercise is in [`projects/legal_research/`](projects/legal_research/).
 
 1. Open your file-capable agent in this repository's root directory.
