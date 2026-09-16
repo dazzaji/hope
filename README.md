@@ -1,7 +1,7 @@
 # HOPE
 
 Hands-On Projects and Experimentation.
-[GitHub](https://github.com/dazzaji/hope) Version | Website Version
+[GitHub](https://github.com/dazzaji/hope) Version | [Website](https://dazzaji.github.io/hope/) Version
 
 ## Legal research exercise
 
