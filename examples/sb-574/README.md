@@ -4,6 +4,9 @@
 
 This is a worked example of what an ambitious HOPE project can look like when it runs well beyond a single prompt — two AI agents doing independent legal research, then challenging, correcting, and combining their work under human direction. It is included as a **historical research artifact and advanced workflow example**, not as legal advice, not as a statement of SB 574's current status, and not as a step-by-step tutorial.
 
+> ### ▶ Start here: [**Read the full story — `CHRONICLE.md`**](CHRONICLE.md)
+> A step-by-step narrative of how the human-directed, cross-provider research team actually worked — the best way to understand this example. The sections below are a shorter orientation.
+
 ## The question it investigated
 
 California's SB 574 would make certain legal tasks expressly personal to a licensed attorney. The project asked what that means in practice for AI-native law firms: where the line falls between an attorney's *lawful use of AI assistance* and an improper *delegation* of professional judgment, and what that implies for supervision, disclosure, and the design of AI-native legal work. The research analyzed the **August 21, 2026** text of the bill.
@@ -33,6 +36,7 @@ You are not expected to read everything. To see what it is:
 
 ## Files in this example
 
+- **[CHRONICLE.md](CHRONICLE.md)** — the narrative walkthrough of the whole project, step by step. **Start here.**
 - **[SB-574-MULTI-AGENT-RESEARCH-REPORT.md](SB-574-MULTI-AGENT-RESEARCH-REPORT.md)** — the full multi-agent research report (historical artifact, dated September 3, 2026).
 - **[RECONCILIATION-LEDGER.md](RECONCILIATION-LEDGER.md)** — the finding-by-finding correction and integration record from the `peer-synthi` phase.
 - **[SANITIZATION-REPORT.md](SANITIZATION-REPORT.md)** — how this public package was prepared from the private working files (what was changed and verified).
